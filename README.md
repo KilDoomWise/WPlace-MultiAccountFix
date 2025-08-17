@@ -2,7 +2,7 @@
 
 [![Telegram](./static/telegram.png)](https://t.me/ru_wplace)
 [![GitHub Stars](./static/github.png)](https://github.com/KilDoomWise/WPlace-MultiAccountFix/stargazers)
-[![OneClick](./static/oneclick.png)](https://github.com/KilDoomWise/WPlace-MultiAccountFix/stargazers)
+[![OneClick](./static/oneclick.png)](https://github.com/KilDoomWise/WPlace-MultiAccountFix/raw/refs/heads/main/dist/WPlace%20Multi-AccountFIX.user.js)
 
 > Приветствую любителей WPlace! Вас тоже бесит способ с кучей браузеров для обхода предупреждении о мульти-аккаунте? Я решил исправить это, и от лица своего канала **RuWPlace** создать скрипт который это обходит!
 
