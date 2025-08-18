@@ -4,7 +4,8 @@
 // @version      2025-08-17
 // @description  Обход блокировки мульти аккаунта в Wplace
 // @author       ru_wplace
-// @match        https://wplace.live/
+// @match        https://wplace.live/*
+// @match        https://wplace.live
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wplace.live
 // @grant        none
 // @run-at       document-idle
